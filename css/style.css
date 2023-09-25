@@ -1,8 +1,11 @@
 body {
     margin: 0px;
+    background-color: coral;
 }
 
 p {
     font-size: 20px;
     color: blue;
+    background-color: aquamarine;
 }
+
